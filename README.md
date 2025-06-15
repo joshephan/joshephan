@@ -38,7 +38,7 @@ Backend:    Node.js · TypeScript · Nest.js · Signal Protocol
 Security:   E2EE · AES256 · X3DH · Double Ratchet · Key Derivation  
 Infra:      Vercel · Supabase · GitHub Actions · AWS  · GCP  
 Tools:      Figma · Obsidian · VSCode · Custom SDKs  
-
+```
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joshephan&show_icons=true&theme=github_dark" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshephan&theme=dark" /> </p>
 
