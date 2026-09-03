@@ -35,5 +35,5 @@ Infra       Vercel · Supabase · AWS · GCP
 ---
 
 <p align="center">
-  <a href="https://graygate.net">graygate.net</a> · <a href="https://parallax.kr">parallax.kr</a>
+  <a href="https://graygate.app">graygate</a> · <a href="https://parallax.kr">parallax ai llc</a>
 </p>
