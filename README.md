@@ -18,7 +18,7 @@ Founder of [Parallax](https://parallax.kr) — AI orchestration platform.
 | **ORBIT** | Crypto transaction tracking & forensic analysis |
 | **MIRAGE** | Disinformation / misinformation detection |
 | **SEAR** | Sentiment & emotion amplification recognizer |
-| **SHADE** | Stealth network mapping & evasive infrastructure |
+| **SHADE** | Stealth Human Affiliation Discovery Engine |
 | **Unsealed** | Whistleblower & historical truth repository |
 
 ---
