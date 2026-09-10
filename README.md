@@ -22,7 +22,7 @@ Founder of [Parallax](https://parallax.kr)
 | **Playground** | Rolling lab of face, voice, and behavioral experiments that turn a photo, clip, or short attention span into one specific signal |
 | **Endkit** | Collection of free online tools for developers, designers, and everyone |
 
-### Projects IIA
+### Projects III
 
 | Product | Description |
 |---------|-------------|
